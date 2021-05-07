@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json"
+        }
+    },
  "height":45,
  "infinite":false,
  "layers":[
@@ -195,7 +202,7 @@
         {
          "columns":3,
          "firstgid":1,
-         "image":"Stackconf\/Female 03-2.png",
+         "image":"Female 03-2.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -317,7 +324,7 @@
         {
          "columns":3,
          "firstgid":13,
-         "image":"Stackconf\/Male 13-4.png",
+         "image":"Male 13-4.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -439,7 +446,7 @@
         {
          "columns":16,
          "firstgid":25,
-         "image":"Stackconf\/walls2.png",
+         "image":"walls2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -452,7 +459,7 @@
         {
          "columns":2,
          "firstgid":281,
-         "image":"Stackconf\/logotcm.png",
+         "image":"logotcm.png",
          "imageheight":32,
          "imagewidth":64,
          "margin":0,
@@ -465,7 +472,7 @@
         {
          "columns":8,
          "firstgid":283,
-         "image":"Stackconf\/fantasy.png",
+         "image":"fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -2036,7 +2043,7 @@
         {
          "columns":25,
          "firstgid":1347,
-         "image":"Stackconf\/demo-tileset-v2.png",
+         "image":"demo-tileset-v2.png",
          "imageheight":800,
          "imagewidth":800,
          "margin":0,
@@ -2049,7 +2056,7 @@
         {
          "columns":3,
          "firstgid":1972,
-         "image":"Stackconf\/Cat 01-2.png",
+         "image":"Cat 01-2.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -2171,7 +2178,7 @@
         {
          "columns":3,
          "firstgid":1984,
-         "image":"Stackconf\/Female 22-4.png",
+         "image":"Female 22-4.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -2293,7 +2300,7 @@
         {
          "columns":8,
          "firstgid":1996,
-         "image":"Stackconf\/xmas.png",
+         "image":"xmas.png",
          "imageheight":384,
          "imagewidth":256,
          "margin":0,
@@ -2306,7 +2313,7 @@
         {
          "columns":11,
          "firstgid":2092,
-         "image":"Stackconf\/tileset4_export.png",
+         "image":"tileset4_export.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
@@ -2554,7 +2561,7 @@
         {
          "columns":10,
          "firstgid":2213,
-         "image":"Stackconf\/tileset5_export.png",
+         "image":"tileset5_export.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -2973,7 +2980,7 @@
         {
          "columns":10,
          "firstgid":2313,
-         "image":"Stackconf\/tileset5bis_export.png",
+         "image":"tileset5bis_export.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -3392,7 +3399,7 @@
         {
          "columns":10,
          "firstgid":2413,
-         "image":"Stackconf\/tileset6_export.png",
+         "image":"tileset6_export.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -3514,7 +3521,7 @@
         {
          "columns":8,
          "firstgid":2513,
-         "image":"Stackconf\/carpet-34x34.png",
+         "image":"carpet-34x34.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -3527,7 +3534,7 @@
         {
          "columns":4,
          "firstgid":2577,
-         "image":"Stackconf\/parquet.png",
+         "image":"parquet.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -3540,7 +3547,7 @@
         {
          "columns":18,
          "firstgid":2593,
-         "image":"Stackconf\/doors.png",
+         "image":"doors.png",
          "imageheight":768,
          "imagewidth":576,
          "margin":0,
@@ -3553,7 +3560,7 @@
         {
          "columns":16,
          "firstgid":3025,
-         "image":"Stackconf\/urban_streets.png",
+         "image":"urban_streets.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -4089,7 +4096,7 @@
         {
          "columns":16,
          "firstgid":3281,
-         "image":"Stackconf\/tilee10.png",
+         "image":"tilee10.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -4157,7 +4164,7 @@
         {
          "columns":3,
          "firstgid":3537,
-         "image":"Stackconf\/characters\/Dog 01-1.png",
+         "image":"characters\/Dog 01-1.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -4279,7 +4286,7 @@
         {
          "columns":3,
          "firstgid":3549,
-         "image":"Stackconf\/characters\/Dog 01-3.png",
+         "image":"characters\/Dog 01-3.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -4401,7 +4408,7 @@
         {
          "columns":3,
          "firstgid":3561,
-         "image":"Stackconf\/characters\/Female 05-3.png",
+         "image":"characters\/Female 05-3.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -4523,7 +4530,7 @@
         {
          "columns":3,
          "firstgid":3573,
-         "image":"Stackconf\/characters\/Male 10-1.png",
+         "image":"characters\/Male 10-1.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -4645,7 +4652,7 @@
         {
          "columns":3,
          "firstgid":3585,
-         "image":"Stackconf\/characters\/Male 12-4.png",
+         "image":"characters\/Male 12-4.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -4767,7 +4774,7 @@
         {
          "columns":3,
          "firstgid":3597,
-         "image":"Stackconf\/characters\/su2 Student male 13.png",
+         "image":"characters\/su2 Student male 13.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -4889,7 +4896,7 @@
         {
          "columns":3,
          "firstgid":3609,
-         "image":"Stackconf\/characters\/su4 Student male 09.png",
+         "image":"characters\/su4 Student male 09.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -5011,7 +5018,7 @@
         {
          "columns":3,
          "firstgid":3621,
-         "image":"Stackconf\/characters\/Teacher fmale 02.png",
+         "image":"characters\/Teacher fmale 02.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -5133,7 +5140,7 @@
         {
          "columns":3,
          "firstgid":3633,
-         "image":"Stackconf\/characters\/Teacher male 01.png",
+         "image":"characters\/Teacher male 01.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -5255,7 +5262,7 @@
         {
          "columns":3,
          "firstgid":3645,
-         "image":"Stackconf\/characters\/Cat 01-1.png",
+         "image":"characters\/Cat 01-1.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -5377,7 +5384,7 @@
         {
          "columns":10,
          "firstgid":3657,
-         "image":"Stackconf\/tileset5ter_export.png",
+         "image":"tileset5ter_export.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -6147,7 +6154,7 @@
         {
          "columns":16,
          "firstgid":3757,
-         "image":"Stackconf\/tilesets_deviant_milkian_3.png",
+         "image":"tilesets_deviant_milkian_3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -6160,7 +6167,7 @@
         {
          "columns":8,
          "firstgid":4013,
-         "image":"Stackconf\/carpet-red.png",
+         "image":"carpet-red.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -6173,7 +6180,7 @@
         {
          "columns":32,
          "firstgid":4077,
-         "image":"Stackconf\/rpg_maker_nip.png",
+         "image":"rpg_maker_nip.png",
          "imageheight":2016,
          "imagewidth":1024,
          "margin":0,
@@ -6313,7 +6320,7 @@
         {
          "columns":16,
          "firstgid":6093,
-         "image":"Stackconf\/gallery_2908_197_123579.png",
+         "image":"gallery_2908_197_123579.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -6417,7 +6424,7 @@
         {
          "columns":24,
          "firstgid":6349,
-         "image":"Stackconf\/school_b_tileset_rpgmaker_mv_by_alilali_dc6ltva.png",
+         "image":"school_b_tileset_rpgmaker_mv_by_alilali_dc6ltva.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
