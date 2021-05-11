@@ -101,14 +101,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"JitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"conference"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
