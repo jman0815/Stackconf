@@ -10229,8 +10229,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":3,
          "firstgid":7005,
-         "source":"Info.tsx"
+         "image":"Info.png",
+         "imageheight":64,
+         "imagewidth":96,
+         "margin":0,
+         "name":"Info",
+         "spacing":0,
+         "tilecount":6,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":3,
