@@ -10009,10 +10009,6 @@
          "tileheight":32,
          "tilewidth":32
         }, 
-        {
-         "firstgid":6949,
-         "source":"Sharp Retro.tsx"
-        }],
  "tilewidth":32,
  "type":"map",
  "version":"1.6",
