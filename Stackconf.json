@@ -119,7 +119,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"opeWebsite",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.linux-magazin.de\/"
                 }],
