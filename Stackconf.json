@@ -10101,31 +10101,31 @@
         }, 
         {
          "firstgid":6949,
-         "source":"BreakoutRooms.tsx"
+         "source":"BreakoutRooms.png"
         }, 
         {
          "firstgid":6955,
-         "source":"Room1.tsx"
+         "source":"Room1.png"
         }, 
         {
          "firstgid":6961,
-         "source":"Room2.tsx"
+         "source":"Room2.png"
         }, 
         {
          "firstgid":6967,
-         "source":"Room3.tsx"
+         "source":"Room3.png"
         }, 
         {
          "firstgid":6973,
-         "source":"Room4.tsx"
+         "source":"Room4.png"
         }, 
         {
          "firstgid":6979,
-         "source":"Linux_Magazin.tsx"
+         "source":"Linux_Magazin.png"
         }, 
         {
          "firstgid":6985,
-         "source":"GermanTechJobs.tsx"
+         "source":"GermanTechJobs.png"
         }],
  "tilewidth":32,
  "type":"map",
