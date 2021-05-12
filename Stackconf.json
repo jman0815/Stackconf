@@ -137,7 +137,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"Button",
+                 "name":"pressButton",
                  "type":"string",
                  "value":"https:\/\/icinga.com\/"
                 }],
