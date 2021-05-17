@@ -171,6 +171,12 @@
          "id":50,
          "name":"Agenda",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/stackconf.eu\/schedule\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
